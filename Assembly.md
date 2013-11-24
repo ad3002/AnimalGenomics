@@ -10,6 +10,8 @@
 
 # Assembly project
 
+A good idea to keep all settings in one yaml file (conf.yaml):
+
 ```yaml
 basic_k: 23
 joined_se_file: raw_reads.ok.keep.fast
